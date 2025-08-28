@@ -1,0 +1,8 @@
+```txt
+nltk
+scikit-learn
+pandas
+matplotlib
+textblob
+vaderSentiment
+jupyter
