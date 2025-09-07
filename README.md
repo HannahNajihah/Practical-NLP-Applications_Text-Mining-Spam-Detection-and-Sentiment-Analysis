@@ -23,3 +23,6 @@ This project is structured into **four mini case studies**:
 - Save and reuse trained models with `pickle` (optional).  
 
 ---
+
+## Run Notebook in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O4UCiYebZdc4SKUX35M6HLnVHigAhynq)
